@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bq-deploy/static/css/main.3e4f53f9.chunk.css",
+    "main.js": "/bq-deploy/static/js/main.d425cb54.chunk.js",
+    "main.js.map": "/bq-deploy/static/js/main.d425cb54.chunk.js.map",
+    "runtime-main.js": "/bq-deploy/static/js/runtime-main.490d22a6.js",
+    "runtime-main.js.map": "/bq-deploy/static/js/runtime-main.490d22a6.js.map",
+    "static/css/2.4b1bf007.chunk.css": "/bq-deploy/static/css/2.4b1bf007.chunk.css",
+    "static/js/2.25313224.chunk.js": "/bq-deploy/static/js/2.25313224.chunk.js",
+    "static/js/2.25313224.chunk.js.map": "/bq-deploy/static/js/2.25313224.chunk.js.map",
+    "static/js/3.a1328c4c.chunk.js": "/bq-deploy/static/js/3.a1328c4c.chunk.js",
+    "static/js/3.a1328c4c.chunk.js.map": "/bq-deploy/static/js/3.a1328c4c.chunk.js.map",
+    "index.html": "/bq-deploy/index.html",
+    "static/css/2.4b1bf007.chunk.css.map": "/bq-deploy/static/css/2.4b1bf007.chunk.css.map",
+    "static/css/main.3e4f53f9.chunk.css.map": "/bq-deploy/static/css/main.3e4f53f9.chunk.css.map",
+    "static/js/2.25313224.chunk.js.LICENSE.txt": "/bq-deploy/static/js/2.25313224.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.490d22a6.js",
+    "static/css/2.4b1bf007.chunk.css",
+    "static/js/2.25313224.chunk.js",
+    "static/css/main.3e4f53f9.chunk.css",
+    "static/js/main.d425cb54.chunk.js"
+  ]
+}
